@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Solomon Obwot, I recently worked on [Choose your own fake news](http://chooseyourownfakenews.com/), a platform about the impacts of fake news and the world of disinformation &  misinformation through the choices you make.
+
+Together with David Okwii, I'm a co-host of a podcast called [The Dignited Show](https://anchor.fm/dignited-show/), a show where we talk about consumer tech in Africa and all the cool gadgets.
+
+I'm yet to write a book, talk at events and build cool things with anyone interested. I'm a call away for the next available web development gig. 
+
 <!--
 **SolObwot/SolObwot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
